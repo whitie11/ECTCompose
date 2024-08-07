@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ECT Treatment Log</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="hello">Hello</string>§
+    <string name="ect_treatment_log">ECT Treatment Log</string>
+    <string name="ect_pathway">ECT Pathway</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+</resources>
